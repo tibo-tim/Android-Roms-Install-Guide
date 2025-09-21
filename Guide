@@ -8,3 +8,6 @@ NOTES
 # Getting Root
 https://youtu.be/n_NQ0om8F_o?si=mPDZHLKf46Vkdbmu
 DroidWin has a good guide on this as well. just follow it and it should work fine
+* If device unauthorized, adb kill-server 
+    This should fix things
+
