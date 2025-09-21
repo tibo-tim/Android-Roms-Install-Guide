@@ -1,0 +1,10 @@
+# Installing Rom (Pre-Root because order of operations)
+https://droidwin.com/how-to-install-android-16-custom-roms-on-pixel-6-6a-6-pro/
+DroidWin has a great tutorial on how to install any rom.
+NOTES
+* To select a specific device, use -s ############## to select a specific android device and not that dumb emulator 
+* When it says rom.zip, that is the downloaded Rom renamed to make it easier to type
+
+# Getting Root
+https://youtu.be/n_NQ0om8F_o?si=mPDZHLKf46Vkdbmu
+DroidWin has a good guide on this as well. just follow it and it should work fine
